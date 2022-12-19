@@ -1,0 +1,7 @@
+[07-Apr-2019 14:42:27 UTC] WordPress 資料庫錯誤：Cannot add foreign key constraint 由指令 
+					ALTER TABLE `wp_wc_download_log`
+					ADD CONSTRAINT `fk_wp_wc_download_log_permission_id`
+					FOREIGN KEY (`permission_id`)
+					REFERENCES `wp_woocommerce_downloadable_product_permissions` (`permission_id`) ON DELETE CASCADE;
+				 引發，錯誤來自 require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables
+[10-Apr-2019 08:33:08 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/d3qo0zhe1w2z/public_html/wp-content/plugins/advanced-reporting-for-woocommerce/includes/phoe_reporting.php on line 475

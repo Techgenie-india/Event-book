@@ -1,0 +1,141 @@
+
+---Downloaded files---
+The import files for: Education LMS Demo Import were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://yotgif.com
+Data file = /home/d3qo0zhe1w2z/public_html/wp-content/themes/education-lms/assets/dummy-data/demo-content.xml
+Widget file = /home/d3qo0zhe1w2z/public_html/wp-content/themes/education-lms/assets/dummy-data/widgets.wie
+Customizer file = /home/d3qo0zhe1w2z/public_html/wp-content/themes/education-lms/assets/dummy-data/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category HTML5&amp;CSS3
+[WARNING] Failed to import course_category LearnPress
+[WARNING] Failed to import course_category Marketing
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import course_category Photography
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import course_category SEO
+[WARNING] Failed to import course_category Web Development
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category HTML5&amp;CSS3
+[WARNING] Failed to import course_category LearnPress
+[WARNING] Failed to import course_category Marketing
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import course_category Photography
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import course_category SEO
+[WARNING] Failed to import course_category Web Development
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category HTML5&amp;CSS3
+[WARNING] Failed to import course_category LearnPress
+[WARNING] Failed to import course_category Marketing
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import course_category Photography
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import course_category SEO
+[WARNING] Failed to import course_category Web Development
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category HTML5&amp;CSS3
+[WARNING] Failed to import course_category LearnPress
+[WARNING] Failed to import course_category Marketing
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import course_category Photography
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import course_category SEO
+[WARNING] Failed to import course_category Web Development
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category HTML5&amp;CSS3
+[WARNING] Failed to import course_category LearnPress
+[WARNING] Failed to import course_category Marketing
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import course_category Photography
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import course_category SEO
+[WARNING] Failed to import course_category Web Development
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category HTML5&amp;CSS3
+[WARNING] Failed to import course_category LearnPress
+[WARNING] Failed to import course_category Marketing
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import course_category Photography
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import course_category SEO
+[WARNING] Failed to import course_category Web Development
+
+
+------
+New AJAX call!
+[WARNING] Failed to import course_category HTML5&amp;CSS3
+[WARNING] Failed to import course_category LearnPress
+[WARNING] Failed to import course_category Marketing
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import course_category Photography
+[WARNING] Failed to import elementor_library_type section
+[WARNING] Failed to import course_category SEO
+[WARNING] Failed to import course_category Web Development
+[WARNING] Failed to import "Sample course": Invalid post type lp_course
+[WARNING] Failed to import "Lesson 1": Invalid post type lp_lesson
+[WARNING] Failed to import "Lesson 2": Invalid post type lp_lesson
+[WARNING] Failed to import "Lesson 3": Invalid post type lp_lesson
+[WARNING] Failed to import "icon box": Invalid post type elementor_library
+[WARNING] Failed to import "Getting Started": Invalid post type lp_course
+[WARNING] Failed to import "Become a SEO Master": Invalid post type lp_course
+[WARNING] Failed to import "The Complete HTML5/CSS3": Invalid post type lp_course
+[WARNING] Failed to import "Affiliate Marketing": Invalid post type lp_course
+[WARNING] Failed to import "Photography Fundamentals": Invalid post type lp_course
+[WARNING] Failed to import "logos": Invalid post type elementor_library
+
+
+---Importing widgets---
+Sidebar : 
+
+Theme: Popular Posts - Recent Posts - Imported
+Search - No Title - Imported
+Archives - No Title - Imported
+Tag Cloud - No Title - Imported
+Navigation Menu - Links - Imported
+Text - Text Widget - Imported
+
+Topbar Left : 
+
+Custom HTML - No Title - Imported
+
+Footer 1 : 
+
+Text - No Title - Imported
+
+Footer 2 : 
+
+Custom HTML - Contact Us - Imported
+
+Footer 3 : 
+
+Navigation Menu - Links - Imported
+
+Footer 4 : 
+
+Custom HTML - Open Hours - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
